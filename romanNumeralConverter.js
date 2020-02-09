@@ -6,8 +6,8 @@ function convertToRoman(num) {
                    300, 400, 500, 600, 700, 800, 900, 1000, 2000, 3000]
     for(let i = 30; i > 0; i--){
         if (num/decimal[i-1] >= 1){
-            num = num - decimal[i-1];
-            res = res + roman[i-1];
+            num -= decimal[i-1];
+            res += roman[i-1];
         }
     }
     return res;
