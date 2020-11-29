@@ -20,6 +20,7 @@ There are all my challenges like BattleDev and small project like FreeCodeCamp
 | ------ | ------ | ------ |
 | Exercise 1  |  [Exercise1.pdf](https://github.com/ronanren/Challenges/blob/master/BattleDevHelloWork-Mars2020/1-Yoghurt/Exercise1.pdf) | [Scripts](https://github.com/ronanren/Challenges/tree/master/BattleDevHelloWork-Mars2020/1-Yoghurt) |
 | Exercise 2  |  [Exercise2.pdf](https://github.com/ronanren/Challenges/blob/master/BattleDevHelloWork-Mars2020/2-Cards/Exercise2.pdf) | [Scripts](https://github.com/ronanren/Challenges/tree/master/BattleDevHelloWork-Mars2020/2-Cards) |
+| Exercise 3  |  [Exercise3.pdf](https://github.com/ronanren/Challenges/blob/master/BattleDevHelloWork-Mars2020/3-25HoursOn25/Exercise3.pdf) | [Scripts](https://github.com/ronanren/Challenges/tree/master/BattleDevHelloWork-Mars2020/3-25HoursOn25) |
 
 
 ### [BattleDev Hello Work - Novembre 2020](https://github.com/ronanren/Challenges/tree/master/BattleDevHelloWork-Novembre2020) <a name="BattleDevHelloWork-Novembre2020"></a>
