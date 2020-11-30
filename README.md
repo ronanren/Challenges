@@ -7,11 +7,15 @@ There are all my challenges like BattleDev and small project like FreeCodeCamp
 - [Challenges](#Challenges)
     - [Meilleur Dev De France - Octobre 2019 (Session 12:40)](#MeilleurDevDeFranceOctobre2019Session1240)
     - [Dev Champion - 2019](#DevChampion2019)
+    - [Coding Battle - Groupe BPCE](#CodingBattle-GroupeBPCE)
     - [BattleDev Hello Work - Mars 2020](#BattleDevHelloWork-Mars2020)
     - [BattleDev Hello Work - Novembre 2020](#BattleDevHelloWork-Novembre2020)
 - [FreeCodeCamp](#FreeCodeCamp)
     - [JavaScript Algorithms and Data Structures](#JavaScriptAlgorithmsandDataStructures)
 
+For challenges, you can remake the challenges on [www.isograd.com](https://www.isograd.com/FR/solutionconcours.php?contest_id=0)
+
+For FreeCodeCamp, you can remake the challenges on [Freecodecamp.org](https://www.freecodecamp.org/)
     
 
 # Challenges <a name="Challenges"></a>
@@ -34,6 +38,16 @@ There are all my challenges like BattleDev and small project like FreeCodeCamp
 | Exercise 4  |  [Exercise4.pdf](https://github.com/ronanren/Challenges/blob/master/DevChampion2019/4-BuggyKeys/Exercise4.pdf) | [Scripts](https://github.com/ronanren/Challenges/tree/master/DevChampion2019/4-BuggyKeys) |
 | Exercise 5  |  [Exercise5.pdf](https://github.com/ronanren/Challenges/blob/master/DevChampion2019/5-PeakTraffic/Exercise5.pdf) | [Scripts](https://github.com/ronanren/Challenges/tree/master/DevChampion2019/5-PeakTraffic) |
 | Exercise 6  |  [Exercise6.pdf](https://github.com/ronanren/Challenges/blob/master/DevChampion2019/6-Intersections/Exercise6.pdf) | Not finished |
+
+### [Coding Battle - Groupe BPCE](https://github.com/ronanren/Challenges/tree/master/CodingBattle-GroupeBPCE) <a name="CodingBattle-GroupeBPCE"></a>
+
+| Exercise | Description | Solution |
+| ------ | ------ | ------ |
+| Exercise 1  |  [Exercise1.pdf](https://github.com/ronanren/Challenges/blob/master/CodingBattle-GroupeBPCE/1-IntrusionAtFactory/Exercise1.txt) | [Scripts](https://github.com/ronanren/Challenges/tree/master/CodingBattle-GroupeBPCE/1-IntrusionAtFactory) |
+| Exercise 2  |  [Exercise2.pdf](https://github.com/ronanren/Challenges/blob/master/CodingBattle-GroupeBPCE/2-BreakTheCode/Exercise2.txt) | [Scripts](https://github.com/ronanren/Challenges/tree/master/CodingBattle-GroupeBPCE/2-BreakTheCode) |
+| Exercise 3  |  [Exercise3.pdf](https://github.com/ronanren/Challenges/blob/master/CodingBattle-GroupeBPCE/3-ShootingWindow/Exercise3.txt) | [Not finished](https://github.com/ronanren/Challenges/tree/master/CodingBattle-GroupeBPCE/3-ShootingWindow) |
+| Exercise 4  |  [Exercise4.pdf](https://github.com/ronanren/Challenges/blob/master/CodingBattle-GroupeBPCE/4-SecretKey/Exercise4.txt) | [Not finished](https://github.com/ronanren/Challenges/tree/master/CodingBattle-GroupeBPCE/4-SecretKey) |
+| Exercise 5  |  [Exercise5.pdf](https://github.com/ronanren/Challenges/blob/master/CodingBattle-GroupeBPCE/5-FindTheBoss/Exercise5.txt) | [Not finished](https://github.com/ronanren/Challenges/tree/master/CodingBattle-GroupeBPCE/5-FindTheBoss) |
 
 ### [BattleDev Hello Work - Mars 2020](https://github.com/ronanren/Challenges/tree/master/BattleDevHelloWork-Mars2020) <a name="BattleDevHelloWork-Mars2020"></a>
 
