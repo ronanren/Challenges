@@ -5,6 +5,7 @@ There are all my challenges like BattleDev and small project like FreeCodeCamp
 # Table of contents
 
 - [Challenges](#Challenges)
+    - [Meilleur Dev De France - Octobre 2019 (Session 12:40)](#MeilleurDevDeFranceOctobre2019Session1240)
     - [Dev Champion - 2019](#DevChampion2019)
     - [BattleDev Hello Work - Mars 2020](#BattleDevHelloWork-Mars2020)
     - [BattleDev Hello Work - Novembre 2020](#BattleDevHelloWork-Novembre2020)
@@ -14,6 +15,14 @@ There are all my challenges like BattleDev and small project like FreeCodeCamp
     
 
 # Challenges <a name="Challenges"></a>
+
+### [Meilleur Dev De France - Octobre 2019 (Session 12:40)](https://github.com/ronanren/Challenges/tree/master/MeilleurDevDeFranceOctobre2019Session1240) <a name="MeilleurDevDeFranceOctobre2019Session1240"></a>
+
+| Exercise | Description | Solution |
+| ------ | ------ | ------ |
+| Exercise 1  |  [Exercise1.pdf](https://github.com/ronanren/Challenges/blob/master/MeilleurDevDeFranceOctobre2019Session1240/1-Paintball/Exercise1.pdf) | [Scripts](https://github.com/ronanren/Challenges/tree/master/MeilleurDevDeFranceOctobre2019Session1240/1-Paintball) |
+| Exercise 2  |  [Exercise2.pdf](https://github.com/ronanren/Challenges/blob/master/MeilleurDevDeFranceOctobre2019Session1240/2-PokemonCardGame/Exercise2.pdf) | [Scripts](https://github.com/ronanren/Challenges/tree/master/MeilleurDevDeFranceOctobre2019Session1240/2-PokemonCardGame) |
+| Exercise 3  |  [Exercise3.pdf](https://github.com/ronanren/Challenges/blob/master/MeilleurDevDeFranceOctobre2019Session1240/3-Cocktail/Exercise3.pdf) | [Not finished](https://github.com/ronanren/Challenges/tree/master/MeilleurDevDeFranceOctobre2019Session1240/3-Cocktail) |
 
 ### [Dev Champion - 2019](https://github.com/ronanren/Challenges/tree/master/DevChampion2019) <a name="DevChampion2019"></a>
 
