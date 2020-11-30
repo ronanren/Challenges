@@ -43,6 +43,8 @@ There are all my challenges like BattleDev and small project like FreeCodeCamp
 | Exercise 2  |  [Exercise2.pdf](https://github.com/ronanren/Challenges/blob/master/BattleDevHelloWork-Novembre2020/2-BattleDevNov2020/Exercise2.pdf) | [Scripts](https://github.com/ronanren/Challenges/tree/master/BattleDevHelloWork-Novembre2020/2-BattleDevNov2020) |
 | Exercise 3  |  [Exercise3.pdf](https://github.com/ronanren/Challenges/blob/master/BattleDevHelloWork-Novembre2020/3-BattleDevNov2020/Exercise3.pdf) | [Scripts](https://github.com/ronanren/Challenges/tree/master/BattleDevHelloWork-Novembre2020/3-BattleDevNov2020) |
 | Exercise 4  |  [Exercise4.pdf](https://github.com/ronanren/Challenges/blob/master/BattleDevHelloWork-Novembre2020/4-BattleDevNov2020/Exercise4.pdf) | [Scripts](https://github.com/ronanren/Challenges/tree/master/BattleDevHelloWork-Novembre2020/4-BattleDevNov2020) |
+| Exercise 5  |  [Exercise5.pdf](https://github.com/ronanren/Challenges/blob/master/BattleDevHelloWork-Novembre2020/5-BattleDevNov2020/Exercise5.pdf) | Not finished |
+| Exercise 6  |  [Exercise6.pdf](https://github.com/ronanren/Challenges/blob/master/BattleDevHelloWork-Novembre2020/6-BattleDevNov2020/Exercise6.pdf) | Not finished |
 
 
 # FreeCodeCamp projects <a name="FreeCodeCamp"></a>
