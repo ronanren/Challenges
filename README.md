@@ -26,7 +26,7 @@ For FreeCodeCamp, you can remake the challenges on [Freecodecamp.org](https://ww
 | ------ | ------ | ------ |
 | Exercise 1  |  [Exercise1.pdf](https://github.com/ronanren/Challenges/blob/master/MeilleurDevDeFranceOctobre2019Session1240/1-Paintball/Exercise1.pdf) | [Scripts](https://github.com/ronanren/Challenges/tree/master/MeilleurDevDeFranceOctobre2019Session1240/1-Paintball) |
 | Exercise 2  |  [Exercise2.pdf](https://github.com/ronanren/Challenges/blob/master/MeilleurDevDeFranceOctobre2019Session1240/2-PokemonCardGame/Exercise2.pdf) | [Scripts](https://github.com/ronanren/Challenges/tree/master/MeilleurDevDeFranceOctobre2019Session1240/2-PokemonCardGame) |
-| Exercise 3  |  [Exercise3.pdf](https://github.com/ronanren/Challenges/blob/master/MeilleurDevDeFranceOctobre2019Session1240/3-Cocktail/Exercise3.pdf) | [Not finished](https://github.com/ronanren/Challenges/tree/master/MeilleurDevDeFranceOctobre2019Session1240/3-Cocktail) |
+| Exercise 3  |  [Exercise3.pdf](https://github.com/ronanren/Challenges/blob/master/MeilleurDevDeFranceOctobre2019Session1240/3-Cocktail/Exercise3.pdf) | Not finished |
 
 ### [Dev Champion - 2019](https://github.com/ronanren/Challenges/tree/master/DevChampion2019) <a name="DevChampion2019"></a>
 
@@ -43,11 +43,11 @@ For FreeCodeCamp, you can remake the challenges on [Freecodecamp.org](https://ww
 
 | Exercise | Description | Solution |
 | ------ | ------ | ------ |
-| Exercise 1  |  [Exercise1.pdf](https://github.com/ronanren/Challenges/blob/master/CodingBattle-GroupeBPCE/1-IntrusionAtFactory/Exercise1.txt) | [Scripts](https://github.com/ronanren/Challenges/tree/master/CodingBattle-GroupeBPCE/1-IntrusionAtFactory) |
-| Exercise 2  |  [Exercise2.pdf](https://github.com/ronanren/Challenges/blob/master/CodingBattle-GroupeBPCE/2-BreakTheCode/Exercise2.txt) | [Scripts](https://github.com/ronanren/Challenges/tree/master/CodingBattle-GroupeBPCE/2-BreakTheCode) |
-| Exercise 3  |  [Exercise3.pdf](https://github.com/ronanren/Challenges/blob/master/CodingBattle-GroupeBPCE/3-ShootingWindow/Exercise3.txt) | [Not finished](https://github.com/ronanren/Challenges/tree/master/CodingBattle-GroupeBPCE/3-ShootingWindow) |
-| Exercise 4  |  [Exercise4.pdf](https://github.com/ronanren/Challenges/blob/master/CodingBattle-GroupeBPCE/4-SecretKey/Exercise4.txt) | [Not finished](https://github.com/ronanren/Challenges/tree/master/CodingBattle-GroupeBPCE/4-SecretKey) |
-| Exercise 5  |  [Exercise5.pdf](https://github.com/ronanren/Challenges/blob/master/CodingBattle-GroupeBPCE/5-FindTheBoss/Exercise5.txt) | [Not finished](https://github.com/ronanren/Challenges/tree/master/CodingBattle-GroupeBPCE/5-FindTheBoss) |
+| Exercise 1  |  [Exercise1.txt](https://github.com/ronanren/Challenges/blob/master/CodingBattle-GroupeBPCE/1-IntrusionAtFactory/Exercise1.txt) | [Scripts](https://github.com/ronanren/Challenges/tree/master/CodingBattle-GroupeBPCE/1-IntrusionAtFactory) |
+| Exercise 2  |  [Exercise2.txt](https://github.com/ronanren/Challenges/blob/master/CodingBattle-GroupeBPCE/2-BreakTheCode/Exercise2.txt) | [Scripts](https://github.com/ronanren/Challenges/tree/master/CodingBattle-GroupeBPCE/2-BreakTheCode) |
+| Exercise 3  |  [Exercise3.txt](https://github.com/ronanren/Challenges/blob/master/CodingBattle-GroupeBPCE/3-ShootingWindow/Exercise3.txt) | [Not finished](https://github.com/ronanren/Challenges/tree/master/CodingBattle-GroupeBPCE/3-ShootingWindow) |
+| Exercise 4  |  [Exercise4.txt](https://github.com/ronanren/Challenges/blob/master/CodingBattle-GroupeBPCE/4-SecretKey/Exercise4.txt) | [Not finished](https://github.com/ronanren/Challenges/tree/master/CodingBattle-GroupeBPCE/4-SecretKey) |
+| Exercise 5  |  [Exercise5.txt](https://github.com/ronanren/Challenges/blob/master/CodingBattle-GroupeBPCE/5-FindTheBoss/Exercise5.txt) | [Not finished](https://github.com/ronanren/Challenges/tree/master/CodingBattle-GroupeBPCE/5-FindTheBoss) |
 
 ### [BattleDev Hello Work - Mars 2020](https://github.com/ronanren/Challenges/tree/master/BattleDevHelloWork-Mars2020) <a name="BattleDevHelloWork-Mars2020"></a>
 
