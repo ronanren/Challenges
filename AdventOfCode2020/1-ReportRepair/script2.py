@@ -1,20 +1,15 @@
 import sys
+from itertools import combinations
 
 lines = []
 for line in sys.stdin:
-	lines.append(line.rstrip('\n'))
+	lines.append(int(line.rstrip('\n')))
 
-res = 0
+res = 1
 
-for i in lines:
-    for j in lines:
-        for k in lines:
-            if (int(i) + int(j) + int(k) == 2020):
-                res = int(i) * int(j) * int(k)
-                break
-        if (res != 0):
-            break
-    if (res != 0):
-        break
+for p in combinations(lines,3):
+  if sum(p)==2020:
+    for nbr in p:
+        res *= nbr
 
 print (res)
