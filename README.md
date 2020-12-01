@@ -17,7 +17,7 @@ There are all my challenges like BattleDev and small project like FreeCodeCamp
     - [JavaScript Algorithms and Data Structures](#JavaScriptAlgorithmsandDataStructures)
 
 ### You can remake the challenges : 
-- For challenges : [www.isograd.com](https://www.isograd.com/FR/solutionconcours.php?contest_id=0)
+- For challenges and BattleDev : [www.isograd.com](https://www.isograd.com/FR/solutionconcours.php?contest_id=0)
 - For FreeCodeCamp : [Freecodecamp.org](https://www.freecodecamp.org/)
 - For Advent Of Code : [adventofcode.com](https://adventofcode.com/)
 
