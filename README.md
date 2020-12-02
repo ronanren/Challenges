@@ -62,6 +62,7 @@ There are all my challenges like BattleDev and small project like FreeCodeCamp
 | Exercise | Description | Solution |
 | ------ | ------ | ------ |
 | Day 1  |  [Exercise1.txt](https://github.com/ronanren/Challenges/blob/master/AdventOfCode2020/1-ReportRepair/Exercise1.txt) - [Exercise2.txt](https://github.com/ronanren/Challenges/blob/master/AdventOfCode2020/1-ReportRepair/Exercise2.txt) | [Scripts](https://github.com/ronanren/Challenges/tree/master/AdventOfCode2020/1-ReportRepair) |
+| Day 2  |  [Exercise1.txt](https://github.com/ronanren/Challenges/blob/master/AdventOfCode2020/2-PasswordPhilosophy/Exercise1.txt) - [Exercise2.txt](https://github.com/ronanren/Challenges/blob/master/AdventOfCode2020/2-PasswordPhilosophy/Exercise2.txt) | [Scripts](https://github.com/ronanren/Challenges/tree/master/AdventOfCode2020/2-PasswordPhilosophy) |
 
 
 # BattleDev <a name="BattleDev"></a>
