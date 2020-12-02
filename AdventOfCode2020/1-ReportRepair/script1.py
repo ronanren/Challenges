@@ -2,16 +2,6 @@ import sys
 
 lines = []
 for line in sys.stdin:
-	lines.append(line.rstrip('\n'))
+	lines.append(int(line.rstrip('\n')))
 
-res = 0
-
-for i in lines:
-    for j in lines:
-        if (int(i) + int(j) == 2020):
-            res = int(i) * int(j)
-            break
-    if (res != 0):
-        break
-
-print (res)
+print({i * (2020 - i) for i in lines if ((2020 - i) in lines)})
