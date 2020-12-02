@@ -15,7 +15,3 @@ for line in lines:
         res += 1
 
 print (res)
-
-
-    
-    
