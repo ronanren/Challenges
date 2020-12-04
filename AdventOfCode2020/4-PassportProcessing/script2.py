@@ -70,6 +70,5 @@ res = 0
 for passport in passports:
     if(byr(passport) and iyr(passport) and eyr(passport) and hgt(passport) and hcl(passport) and ecl(passport) and pid(passport)):
         res += 1
-    print(str(byr(passport)) + " " + passport.get("byr", ""))
         
 print (res)
