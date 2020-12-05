@@ -65,6 +65,7 @@ There are all my challenges like BattleDev and small project like FreeCodeCamp
 | Day 2  |  [Exercise1.txt](https://github.com/ronanren/Challenges/blob/master/AdventOfCode2020/2-PasswordPhilosophy/Exercise1.txt) - [Exercise2.txt](https://github.com/ronanren/Challenges/blob/master/AdventOfCode2020/2-PasswordPhilosophy/Exercise2.txt) | [Scripts](https://github.com/ronanren/Challenges/tree/master/AdventOfCode2020/2-PasswordPhilosophy) |
 | Day 3  |  [Exercise1.txt](https://github.com/ronanren/Challenges/blob/master/AdventOfCode2020/3-TobogganTrajectory/Exercise1.txt) - [Exercise2.txt](https://github.com/ronanren/Challenges/blob/master/AdventOfCode2020/3-TobogganTrajectory/Exercise2.txt) | [Scripts](https://github.com/ronanren/Challenges/tree/master/AdventOfCode2020/3-TobogganTrajectory) |
 | Day 4  |  [Exercise1.txt](https://github.com/ronanren/Challenges/blob/master/AdventOfCode2020/4-PassportProcessing/Exercise1.txt) - [Exercise2.txt](https://github.com/ronanren/Challenges/blob/master/AdventOfCode2020/4-PassportProcessing/Exercise2.txt) | [Scripts](https://github.com/ronanren/Challenges/tree/master/AdventOfCode2020/4-PassportProcessing) |
+| Day 5  |  [Exercise1.txt](https://github.com/ronanren/Challenges/blob/master/AdventOfCode2020/5-BinaryBoarding/Exercise1.txt) - [Exercise2.txt](https://github.com/ronanren/Challenges/blob/master/AdventOfCode2020/5-BinaryBoarding/Exercise2.txt) | [Scripts](https://github.com/ronanren/Challenges/tree/master/AdventOfCode2020/5-BinaryBoarding) |
 
 
 # BattleDev <a name="BattleDev"></a>
