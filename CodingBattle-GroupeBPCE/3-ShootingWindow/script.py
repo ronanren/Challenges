@@ -21,7 +21,7 @@ for i in lines[1:]:
 	time1 = int(i.split("-")[0].replace(":", ""))
 	time2 = int(i.split("-")[1].replace(":", ""))
 	for j in range(time1, time2):
-		tab[int(j - (j/100 * 40))] = 1
+		tab[int(j - ((j - j % 100)/100 * 40))] = 1
 
 for i, value in enumerate(tab):
 	if value == 0:
@@ -47,5 +47,4 @@ for i, value in enumerate(tab):
 	else:
 		maxtemp = 0
 	
-
 print (toString(horaire1 + 1) + "-" + toString(horaire2))
