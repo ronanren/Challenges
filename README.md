@@ -67,6 +67,8 @@ There are all my challenges like BattleDev and small project like FreeCodeCamp
 | Day 4  |  [Exercise1.txt](https://github.com/ronanren/Challenges/blob/master/AdventOfCode2020/4-PassportProcessing/Exercise1.txt) - [Exercise2.txt](https://github.com/ronanren/Challenges/blob/master/AdventOfCode2020/4-PassportProcessing/Exercise2.txt) | [Scripts](https://github.com/ronanren/Challenges/tree/master/AdventOfCode2020/4-PassportProcessing) |
 | Day 5  |  [Exercise1.txt](https://github.com/ronanren/Challenges/blob/master/AdventOfCode2020/5-BinaryBoarding/Exercise1.txt) - [Exercise2.txt](https://github.com/ronanren/Challenges/blob/master/AdventOfCode2020/5-BinaryBoarding/Exercise2.txt) | [Scripts](https://github.com/ronanren/Challenges/tree/master/AdventOfCode2020/5-BinaryBoarding) |
 | Day 6  |  [Exercise1.txt](https://github.com/ronanren/Challenges/blob/master/AdventOfCode2020/6-CustomCustoms/Exercise1.txt) - [Exercise2.txt](https://github.com/ronanren/Challenges/blob/master/AdventOfCode2020/6-CustomCustoms/Exercise2.txt) | [Scripts](https://github.com/ronanren/Challenges/tree/master/AdventOfCode2020/6-CustomCustoms) |
+| Day 7  |  [Exercise1.txt](https://github.com/ronanren/Challenges/blob/master/AdventOfCode2020/7-HandyHaversacks/Exercise1.txt) | [Scripts](https://github.com/ronanren/Challenges/tree/master/AdventOfCode2020/7-HandyHaversacks) |
+| Day 8  |  [Exercise1.txt](https://github.com/ronanren/Challenges/blob/master/AdventOfCode2020/8-HandheldHalting/Exercise1.txt) - [Exercise2.txt](https://github.com/ronanren/Challenges/blob/master/AdventOfCode2020/8-HandheldHalting/Exercise2.txt) | [Scripts](https://github.com/ronanren/Challenges/tree/master/AdventOfCode2020/8-HandheldHalting) |
 
 
 # BattleDev <a name="BattleDev"></a>
