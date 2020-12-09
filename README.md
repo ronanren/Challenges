@@ -69,6 +69,7 @@ There are all my challenges like BattleDev and small project like FreeCodeCamp
 | Day 6  |  [Exercise1.txt](https://github.com/ronanren/Challenges/blob/master/AdventOfCode2020/6-CustomCustoms/Exercise1.txt) - [Exercise2.txt](https://github.com/ronanren/Challenges/blob/master/AdventOfCode2020/6-CustomCustoms/Exercise2.txt) | [Scripts](https://github.com/ronanren/Challenges/tree/master/AdventOfCode2020/6-CustomCustoms) |
 | Day 7  |  [Exercise1.txt](https://github.com/ronanren/Challenges/blob/master/AdventOfCode2020/7-HandyHaversacks/Exercise1.txt) - Not finished | [Scripts](https://github.com/ronanren/Challenges/tree/master/AdventOfCode2020/7-HandyHaversacks) |
 | Day 8  |  [Exercise1.txt](https://github.com/ronanren/Challenges/blob/master/AdventOfCode2020/8-HandheldHalting/Exercise1.txt) - [Exercise2.txt](https://github.com/ronanren/Challenges/blob/master/AdventOfCode2020/8-HandheldHalting/Exercise2.txt) | [Scripts](https://github.com/ronanren/Challenges/tree/master/AdventOfCode2020/8-HandheldHalting) |
+| Day 9  |  [Exercise1.txt](https://github.com/ronanren/Challenges/blob/master/AdventOfCode2020/9-EncodingError/Exercise1.txt) - [Exercise2.txt](https://github.com/ronanren/Challenges/blob/master/AdventOfCode2020/9-EncodingError/Exercise2.txt) | [Scripts](https://github.com/ronanren/Challenges/tree/master/AdventOfCode2020/9-EncodingError) |
 
 
 # BattleDev <a name="BattleDev"></a>
