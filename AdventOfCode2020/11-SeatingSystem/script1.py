@@ -54,4 +54,4 @@ seatsOccupied = 0
 for i in state[0]:
     seatsOccupied += i.count("#")
 
-print(seatsOccupied)
+print("Seats occupied : " + str(seatsOccupied))

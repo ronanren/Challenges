@@ -7,56 +7,112 @@ for line in sys.stdin:
 for i, value in enumerate(lines):
     lines[i] = [i for i in value]
 
-def occupied(lines, i, j):
-    seats = 0
-    for k in range(i, 0, -1):
-        if (lines[k][j] == 'L'):
-            break
-        if (lines[k][j] == '#'):
-            seats += 1
-            break
-    for k in range(i+1, len(lines)):
-        if (lines[k][j] == 'L'):
-            break
-        if (lines[k][j] == '#'):
-            seats += 1
-            break
-    for k in range(j, 0, -1):
+def left(lines, i, j):
+    res = False
+    for k in range(j-1, -1, -1):
         if (lines[i][k] == 'L'):
             break
-        if (lines[i][k] == '#'):
-            seats += 1
+        elif (lines[i][k] == '#'):
+            res = True
             break
+    return res
+
+def right(lines, i, j):
+    res = False
     for k in range(j+1, len(lines[i])):
         if (lines[i][k] == 'L'):
             break
-        if (lines[i][k] == '#'):
-            seats += 1
+        elif (lines[i][k] == '#'):
+            res = True
             break
+    return res
+
+def top(lines, i, j):
+    res = False
+    for k in range(i-1, -1, -1):
+        if (lines[k][j] == 'L'):
+            break
+        elif (lines[k][j] == '#'):
+            res = True
+            break
+    return res
+
+def bottom(lines, i, j):
+    res = False
+    for k in range(i+1, len(lines)):
+        if (lines[k][j] == 'L'):
+            break
+        elif (lines[k][j] == '#'):
+            res = True
+            break
+    return res
+
+def leftTop(lines, i, j):
+    res = False
     k = 1
-    while i-k >= 0 and j-k >= 0 and lines[i-k][j-k] != "L":
-        if (lines[i-k][j-k] == '#'):
-            seats += 1
+    while i-k >= 0 and j-k >= 0:
+        if (lines[i-k][j-k] == 'L'):
             break
-        k += 1  
-    k = 1 
-    while i-k >= 0 and j+k < len(lines[0]) and lines[i-k][j+k] != "L":
-        if (lines[i-k][j+k] == '#'):
-            seats += 1
-            break
-        k += 1 
-    k = 1
-    while i+k < len(lines) and j+k < len(lines[0]) and lines[i+k][j+k] != "L":
-        if (lines[i+k][j+k] == '#'):
-            seats += 1
-            break
-        k += 1 
-    k = 1
-    while i+k < len(lines) and j-k >= 0 and lines[i+k][j-k] != "L":
-        if (lines[i+k][j-k] == '#'):
-            seats += 1
+        elif (lines[i-k][j-k] == '#'):
+            res = True
             break
         k += 1
+    return res
+
+def rightTop(lines, i, j):
+    res = False
+    k = 1
+    while i-k >= 0 and j+k <= len(lines[i]) - 1:
+        if (lines[i-k][j+k] == 'L'):
+            break
+        elif (lines[i-k][j+k] == '#'):
+            res = True
+            break
+        k += 1     
+    return res
+
+def leftBottom(lines, i, j):
+    res = False
+    k = 1
+    while i+k <= len(lines) - 1 and j-k >= 0:
+        if (lines[i+k][j-k] == 'L'):
+            break
+        elif (lines[i+k][j-k] == '#'):
+            res = True
+            break
+        k += 1     
+    return res
+
+def rightBottom(lines, i, j):
+    res = False
+    k = 1
+    while i+k < len(lines) and j+k <= len(lines[i]) - 1:
+        if (lines[i+k][j+k] == 'L'):
+            break
+        elif (lines[i+k][j+k] == '#'):
+            res = True
+            break
+        k += 1     
+    return res
+
+def occupied(lines, i, j):
+    seats = 0
+    if (left(lines, i, j)):
+        seats += 1
+    if (right(lines, i, j)):
+        seats += 1
+    if (top(lines, i, j)):
+        seats += 1
+    if (bottom(lines, i, j)):
+        seats += 1
+    if (leftTop(lines, i, j)):
+        seats += 1
+    if (rightTop(lines, i, j)):
+        seats += 1
+    if (leftBottom(lines, i, j)):
+        seats += 1
+    if (rightBottom(lines, i, j)):
+        seats += 1
     return seats
 
 def makeRound(lines):
@@ -74,16 +130,12 @@ def makeRound(lines):
 
 
 state = makeRound(lines)
-state = makeRound(state[0])
-state = makeRound(state[0])
+while state[1] != 0:
+    state = makeRound(state[0])
 
 seatsOccupied = 0
+
 for i in state[0]:
     seatsOccupied += i.count("#")
 
-print(seatsOccupied)
-
-for i in state[0]:
-    print("".join([k for k in i]))
-
-# 7378 to high
+print("Seats occupied : " + str(seatsOccupied))

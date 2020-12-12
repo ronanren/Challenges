@@ -71,7 +71,7 @@ There are all my challenges like BattleDev and small project like FreeCodeCamp
 | Day 8  |  [Exercise1.txt](https://github.com/ronanren/Challenges/blob/master/AdventOfCode2020/8-HandheldHalting/Exercise1.txt) - [Exercise2.txt](https://github.com/ronanren/Challenges/blob/master/AdventOfCode2020/8-HandheldHalting/Exercise2.txt) | [Scripts](https://github.com/ronanren/Challenges/tree/master/AdventOfCode2020/8-HandheldHalting) |
 | Day 9  |  [Exercise1.txt](https://github.com/ronanren/Challenges/blob/master/AdventOfCode2020/9-EncodingError/Exercise1.txt) - [Exercise2.txt](https://github.com/ronanren/Challenges/blob/master/AdventOfCode2020/9-EncodingError/Exercise2.txt) | [Scripts](https://github.com/ronanren/Challenges/tree/master/AdventOfCode2020/9-EncodingError) |
 | Day 10  |  [Exercise1.txt](https://github.com/ronanren/Challenges/blob/master/AdventOfCode2020/10-AdapterArray/Exercise1.txt) - Not finished | [Scripts](https://github.com/ronanren/Challenges/tree/master/AdventOfCode2020/10-AdapterArray) |
-| Day 11  |  [Exercise1.txt](https://github.com/ronanren/Challenges/blob/master/AdventOfCode2020/11-SeatingSystem/Exercise1.txt) - Not finished | [Scripts](https://github.com/ronanren/Challenges/tree/master/AdventOfCode2020/11-SeatingSystem) |
+| Day 11  |  [Exercise1.txt](https://github.com/ronanren/Challenges/blob/master/AdventOfCode2020/11-SeatingSystem/Exercise1.txt) - [Exercise2.txt](https://github.com/ronanren/Challenges/blob/master/AdventOfCode2020/11-SeatingSystem/Exercise2.txt) | [Scripts](https://github.com/ronanren/Challenges/tree/master/AdventOfCode2020/11-SeatingSystem) |
 
 
 # BattleDev <a name="BattleDev"></a>
