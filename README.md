@@ -76,6 +76,7 @@ There are all my challenges like BattleDev and small project like FreeCodeCamp
 | Day 13  |  [Exercise1.txt](https://github.com/ronanren/Challenges/blob/master/AdventOfCode2020/13-ShuttleSearch/Exercise1.txt) - Not finished | [Scripts](https://github.com/ronanren/Challenges/tree/master/AdventOfCode2020/13-ShuttleSearch) |
 | Day 14  |  [Exercise1.txt](https://github.com/ronanren/Challenges/blob/master/AdventOfCode2020/14-DockingData/Exercise1.txt) - [Exercise2.txt](https://github.com/ronanren/Challenges/blob/master/AdventOfCode2020/14-DockingData/Exercise2.txt) | [Scripts](https://github.com/ronanren/Challenges/tree/master/AdventOfCode2020/14-DockingData) |
 | Day 15  |  [Exercise1.txt](https://github.com/ronanren/Challenges/blob/master/AdventOfCode2020/15-RambunctiousRecitation/Exercise1.txt) - Not finished | [Scripts](https://github.com/ronanren/Challenges/tree/master/AdventOfCode2020/15-RambunctiousRecitation) |
+| Day 16  |  [Exercise1.txt](https://github.com/ronanren/Challenges/blob/master/AdventOfCode2020/16-TicketTranslation/Exercise1.txt) - Not finished | [Scripts](https://github.com/ronanren/Challenges/tree/master/AdventOfCode2020/16-TicketTranslation) |
 
 
 
