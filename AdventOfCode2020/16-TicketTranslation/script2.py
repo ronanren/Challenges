@@ -38,20 +38,12 @@ def inRangeRow(interval, row):
 
 res = {}
 used = []
-for i, row in enumerate(rows):
-    j = 0
-    for p in range(0, len(interval)):
-        if (inRangeRow(interval[j], row) <= 4 and j not in used):
-            used.append(j)
-            res[lines[i].split(':')[0]] = j
-            break
-        j += 1
+for i, inter in enumerate(interval):
+    verif = []
+    for j, row in enumerate(rows):
+        verif.append(inRangeRow(inter, row))
+    print(verif)
     
-result = 1
-for i, value in res.items():
-    if ("departure" in i):
-        result *= int(ticket[value])
-        print(str(i) + " " + ticket[value])
-
-print (result)
 # 676328537453 too low
+# not 913983120487
+# not 889800648029
