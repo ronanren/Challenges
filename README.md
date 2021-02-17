@@ -15,6 +15,7 @@ There are all my challenges like BattleDev and small project like FreeCodeCamp
     - [BattleDev Hello Work - Novembre 2020](#BattleDevHelloWork-Novembre2020)
 - [FreeCodeCamp](#FreeCodeCamp)
     - [JavaScript Algorithms and Data Structures](#JavaScriptAlgorithmsandDataStructures)
+    - [Scientific Computing with Python](#ScientificComputingwithPython)
 
 ### You can remake the challenges : 
 - For challenges and BattleDev : [www.isograd.com](https://www.isograd.com/FR/solutionconcours.php?contest_id=0)
@@ -105,7 +106,7 @@ There are all my challenges like BattleDev and small project like FreeCodeCamp
 # FreeCodeCamp projects <a name="FreeCodeCamp"></a>
 
 ### [JavaScript Algorithms and Data Structures](https://github.com/ronanren/Challenges/tree/master/JavaScript-Algorithms-and-Data-Structures) <a name="JavaScriptAlgorithmsandDataStructures"></a>
----
+
 | Project Name | Description | Solution |
 | ------ | ------ | ------ |
 | Palindrome Checker | It allows to specify if a string is a palindrome or not trought returns true or false | [palindromeChecker.js](https://github.com/ronanren/Challenges/blob/master/JavaScript-Algorithms-and-Data-Structures/palindromeChecker.js) |
@@ -114,3 +115,8 @@ There are all my challenges like BattleDev and small project like FreeCodeCamp
 | Telephone Number Validator | Return true if the passed string looks like a valid US phone number | [telephoneNumberValidator.js](https://github.com/ronanren/Challenges/blob/master/JavaScript-Algorithms-and-Data-Structures/telephoneNumberValidator.js) |
 | Cash Register | A cash register drawer function that accepts purchase price, payment , and cash-in-drawer | [cashRegister.js](https://github.com/ronanren/Challenges/blob/master/JavaScript-Algorithms-and-Data-Structures/cashRegister.js) |
 
+### [Scientific Computing with Python](https://github.com/ronanren/Challenges/tree/master/Scientific-Computing-with-Python) <a name="ScientificComputingwithPython"></a>
+
+| Project Name | Description | Solution |
+| ------ | ------ | ------ |
+| Arithmetic Formatter | It's a function that receives a list of strings that are arithmetic problems and returns the problems arranged vertically and side-by-side.| [ArithmeticFormatter](https://github.com/ronanren/Challenges/blob/master/Scientific-Computing-with-Python/ArithmeticFormatter)
