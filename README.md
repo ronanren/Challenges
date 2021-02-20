@@ -105,6 +105,10 @@ There are all my challenges like BattleDev and small project like FreeCodeCamp
 
 # FreeCodeCamp projects <a name="FreeCodeCamp"></a>
 
+[JavaScript Algorithms and Data Structures Certification](https://github.com/ronanren/Challenges/tree/master/JavaScript-Algorithms-and-Data-Structures/JvascriptAlgorithmsAndDataStructuresCertification.png)
+
+[Scientific Computing with Python Certification](https://github.com/ronanren/Challenges/tree/master/Scientific-Computing-with-Python/ScientificComputingWithPythonCertification.png)
+
 ### [JavaScript Algorithms and Data Structures](https://github.com/ronanren/Challenges/tree/master/JavaScript-Algorithms-and-Data-Structures) <a name="JavaScriptAlgorithmsandDataStructures"></a>
 
 | Project Name | Description | Solution |
