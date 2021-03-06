@@ -1,6 +1,6 @@
 # 💻 Challenges 
 
-There are all my challenges like BattleDev and small project like FreeCodeCamp
+There are all my challenges to learn code, algorithms and many others
 
 # Table of contents
 
