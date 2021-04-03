@@ -105,7 +105,7 @@ There are all my challenges to learn code, algorithms and many others
 
 # FreeCodeCamp projects <a name="FreeCodeCamp"></a>
 
-[JavaScript Algorithms and Data Structures Certification](https://github.com/ronanren/Challenges/tree/master/JavaScript-Algorithms-and-Data-Structures/JvascriptAlgorithmsAndDataStructuresCertification.png)
+[JavaScript Algorithms and Data Structures Certification](https://github.com/ronanren/Challenges/tree/master/JavaScript-Algorithms-and-Data-Structures/JavascriptAlgorithmsAndDataStructuresCertification.png)
 
 [Scientific Computing with Python Certification](https://github.com/ronanren/Challenges/tree/master/Scientific-Computing-with-Python/ScientificComputingWithPythonCertification.png)
 
