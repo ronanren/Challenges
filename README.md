@@ -13,6 +13,7 @@ There are all my challenges to learn code, algorithms and many others
 - [BattleDev](#BattleDev)
     - [BattleDev Hello Work - Mars 2020](#BattleDevHelloWork-Mars2020)
     - [BattleDev Hello Work - Novembre 2020](#BattleDevHelloWork-Novembre2020)
+    - [BattleDev Hello Work - Juin 2021](#BattleDevHelloWork-Juin2021)
 - [FreeCodeCamp](#FreeCodeCamp)
     - [JavaScript Algorithms and Data Structures](#JavaScriptAlgorithmsandDataStructures)
     - [Scientific Computing with Python](#ScientificComputingwithPython)
@@ -102,6 +103,14 @@ There are all my challenges to learn code, algorithms and many others
 | Exercise 4  |  [Exercise4.pdf](https://github.com/ronanren/Challenges/blob/master/BattleDevHelloWork-Novembre2020/4-BattleDevNov2020/Exercise4.pdf) | [Scripts](https://github.com/ronanren/Challenges/tree/master/BattleDevHelloWork-Novembre2020/4-BattleDevNov2020) |
 | Exercise 5  |  [Exercise5.pdf](https://github.com/ronanren/Challenges/blob/master/BattleDevHelloWork-Novembre2020/5-BattleDevNov2020/Exercise5.pdf) | Not finished |
 | Exercise 6  |  [Exercise6.pdf](https://github.com/ronanren/Challenges/blob/master/BattleDevHelloWork-Novembre2020/6-BattleDevNov2020/Exercise6.pdf) | Not finished |
+
+### [BattleDev Hello Work - Juin 2021](https://github.com/ronanren/Challenges/tree/master/BattleDevHelloWork-Juin2021) <a name="BattleDevHelloWork-Juin2021"></a>
+
+| Exercise | Description | Solution |
+| ------ | ------ | ------ |
+| Exercise 1  |  [Exercise1.pdf](https://github.com/ronanren/Challenges/blob/master/BattleDevHelloWork-Juin2021/1-ThoroughPreparation/exercise1.pdf) | [Scripts](https://github.com/ronanren/Challenges/tree/master/BattleDevHelloWork-Juin2021/1-ThoroughPreparation) |
+| Exercise 2  |  [Exercise2.pdf](https://github.com/ronanren/Challenges/blob/master/BattleDevHelloWork-Juin2021/2-Liftoff/exercise2.pdf) | [Scripts](https://github.com/ronanren/Challenges/tree/master/BattleDevHelloWork-Juin2021/2-Liftoff) |
+
 
 # FreeCodeCamp projects <a name="FreeCodeCamp"></a>
 
