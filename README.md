@@ -110,6 +110,8 @@ There are all my challenges to learn code, algorithms and many others
 | ------ | ------ | ------ |
 | Exercise 1  |  [Exercise1.pdf](https://github.com/ronanren/Challenges/blob/master/BattleDevHelloWork-Juin2021/1-ThoroughPreparation/exercise1.pdf) | [Scripts](https://github.com/ronanren/Challenges/tree/master/BattleDevHelloWork-Juin2021/1-ThoroughPreparation) |
 | Exercise 2  |  [Exercise2.pdf](https://github.com/ronanren/Challenges/blob/master/BattleDevHelloWork-Juin2021/2-Liftoff/exercise2.pdf) | [Scripts](https://github.com/ronanren/Challenges/tree/master/BattleDevHelloWork-Juin2021/2-Liftoff) |
+| Exercise 3  |  [Exercise3.pdf](https://github.com/ronanren/Challenges/blob/master/BattleDevHelloWork-Juin2021/3-TetrisBot1.0/exercise3.pdf) | [Scripts](https://github.com/ronanren/Challenges/tree/master/BattleDevHelloWork-Juin2021/3-TetrisBot1.0) |
+| Exercise 4  |  [Exercise4.pdf](https://github.com/ronanren/Challenges/blob/master/BattleDevHelloWork-Juin2021/4-SpaceCleaner/exercise4.pdf) | [Not finished](https://github.com/ronanren/Challenges/tree/master/BattleDevHelloWork-Juin2021/4-SpaceCleaner) |
 
 
 # FreeCodeCamp projects <a name="FreeCodeCamp"></a>
