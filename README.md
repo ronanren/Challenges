@@ -4,7 +4,7 @@ There are all my challenges to learn code, algorithms and many others
 
 # Table of contents
 
-- [LeetCode](https://github.com/ronanren/Challenges/tree/master/leetcode)
+- [LeetCode](https://github.com/ronanren/Challenges/tree/master/LeetCode)
 - [Challenges](#Challenges)
     - [Meilleur Dev De France - Octobre 2019 (Session 12:40)](#MeilleurDevDeFranceOctobre2019Session1240)
     - [Dev Champion - 2019](#DevChampion2019)

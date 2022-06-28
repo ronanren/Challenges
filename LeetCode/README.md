@@ -1,6 +1,6 @@
 # LeetCode
 
-<style>
+<style style="display: none">
     r { color: Red }
     o { color: Orange }
     g { color: Green }
